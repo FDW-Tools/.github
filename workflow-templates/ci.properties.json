@@ -1,0 +1,7 @@
+{
+  "name": "Node CI",
+  "description": "Pull request CI workflow template.",
+  "iconName": "octicon-gear",
+  "categories": ["JavaScript"],
+  "filePatterns": ["package.json$"]
+}
